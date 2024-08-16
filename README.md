@@ -1,13 +1,13 @@
 ## 🌟 ¿qn verga soy? 🌟
 
 ### 🎮 😺 Sobre mí
-q onda soy inactivo, un apasionado de la tecnología y estudiante que recién está empezando en el mundo de la programación. Esta idea comenzó en 2021, metiéndome en el desarrollo y la modificación de juegos con Source Engine.
+q onda soy inactivo, un apasionado de la tecnología y estudiante que recién está empezando en el mundo de la programación. esta idea comenzó en 2021, metiéndome en el desarrollo y la modificación de juegos con Source Engine.
 
 arranqué con el mítico **Left 4 Dead 2**, donde descubrí cómo se pueden transformar y mejorar las experiencias de juego, siendo jugador de los mismos supe en que areas fortalecer dentro de una comunidad para que siga estando viva e activa y mejor que nunca,
 
-hoy en día estoy jugando mucho **TF2** e **IOSoccer**, intentando crear nuevas comunidades llena de alegrias y memorias para jugadores.
+hoy en día estoy jugando mucho **TF2** e **IOSoccer**, intentando crear nuevas comunidades llena de alegrias y memorias para jugadores
 
-me encanta meterme en los detalles, aprender y seguir creciendo, disfruto colaborando y compartiendo conocimientos con otros locos por los videojuegos. Acá encontrarás mis proyectos, ideas y experimentos locardos
+me encanta meterme en los detalles, aprender y seguir creciendo, disfruto colaborando y compartiendo conocimientos con otros maniatics por los juegitos. acá encontrarás mis proyectos, ideas y experimentos locardos
 
 si querés charlar, compartir ideas o simplemente pasar el rato podés encontrarme en Discord como `inactivoo`.
 
