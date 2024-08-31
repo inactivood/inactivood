@@ -1,6 +1,5 @@
-## 🌟 ¿qn verga soy? 🌟
+## todo sobre mi
 
-### 🎮 😺 Sobre mí
 q onda soy inactivo, un apasionado de la tecnología y estudiante que recién está empezando en el mundo de la programación. esta idea comenzó en 2021, metiéndome en el desarrollo y la modificación de juegos con Source Engine.
 
 arranqué con el mítico **Left 4 Dead 2**, donde descubrí cómo se pueden transformar y mejorar las experiencias de juego, siendo jugador de los mismos supe en que areas fortalecer dentro de una comunidad para que siga estando viva e activa y mejor que nunca,
@@ -11,7 +10,7 @@ me encanta meterme en los detalles, aprender y seguir creciendo, disfruto colabo
 
 si querés charlar, compartir ideas o simplemente pasar el rato podés encontrarme en Discord como `inactivoo`.
 
-#### 🚀 Lenguajes
+#### 🚀 lenguajes
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 > ![SourcePawn](https://img.shields.io/badge/sourcepawn-00599C.svg?style=for-the-badge&logo=sourcepawn&logoColor=white)
 
