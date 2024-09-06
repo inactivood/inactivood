@@ -2,6 +2,8 @@
 
 q onda soy inactivo, un apasionado de la tecnología y estudiante que recién está empezando en el mundo de la programación. esta idea comenzó en 2021, metiéndome en el desarrollo y la modificación de juegos con Source Engine.
 
+actualmente (2024) sigo estudiando y voy por mi ultimo año en secundaria. además de ya poseer titulos desde antes, tales como, programación basica e intermedia (.js/.net framework), cursos online de portuguese, cursos de inglés, desarrollo de videojuegos e diseño.
+
 arranqué con el mítico **Left 4 Dead 2**, donde descubrí cómo se pueden transformar y mejorar las experiencias de juego, siendo jugador de los mismos supe en que areas fortalecer dentro de una comunidad para que siga estando viva e activa y mejor que nunca,
 
 hoy en día estoy jugando mucho **TF2** e **IOSoccer**, intentando crear nuevas comunidades llena de alegrias y memorias para jugadores
