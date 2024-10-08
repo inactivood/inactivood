@@ -6,12 +6,12 @@
 
 #### about me
 🌍:
-- Spanish/English/Portuguese
-- 18 years
-- 🇦🇷
+> Spanish/English/Portuguese
+> 18 years
+> 🇦🇷
   
 💻:
-- estudiante de secundaria e ingeneria en software de videojuegos
+> estudiante de secundaria e ingeneria en software de videojuegos
 
 🏮 future projects:
 - vertex arena
