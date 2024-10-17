@@ -13,8 +13,5 @@
 💻:
 > estudiante de secundaria e ingeneria en software de videojuegos
 
-🏮 future projects:
-- vertex arena
-  - comunidad de videojuegos dedicado a source engine
-  - servidores alojados en sudámerica
-  - diversos catalogos de videojuegos propios de valve como de modders
+🏮:
+> apasionado del source engine/gold source
