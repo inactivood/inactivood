@@ -11,7 +11,7 @@
 > 🇦🇷
   
 💻:
-> estudiante de secundaria e ingeneria en software de videojuegos
+> estudiante de secundaria e ingenieria en software de videojuegos
 
 🏮:
 > apasionado del source engine/gold source
