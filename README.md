@@ -7,7 +7,7 @@
 #### about me
 🌍:
 > Spanish/English/Portuguese
-> 18 years
+> 17 years
 > 🇦🇷
   
 💻:
